@@ -1,4 +1,4 @@
-#Multiplicar
+## Multiplicar
 
 Esta es una aplicación para generar archivos de la tabla de multiplicar
 
